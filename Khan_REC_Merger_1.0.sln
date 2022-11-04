@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khan_REC_Merger_1.0", "Khan_REC_Merger_1.0\Khan_REC_Merger_1.0.csproj", "{A675FA77-48D5-4131-855B-87BCDF4FF777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A675FA77-48D5-4131-855B-87BCDF4FF777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A675FA77-48D5-4131-855B-87BCDF4FF777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A675FA77-48D5-4131-855B-87BCDF4FF777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A675FA77-48D5-4131-855B-87BCDF4FF777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6ABB882-9938-4568-A77E-077185462B0E}
+	EndGlobalSection
+EndGlobal
